@@ -11,7 +11,7 @@ This is a roadmap of development and specification activities arround the Solid 
 | Developing Solid apps | Have examples to show as well as  useful apps that attract end-users| https://gitter.im/solid/app-development / Maintainer of the specific app| https://github.com/solid/solid-apps |
 | Developing Solid libraries
 | Make it easier for  developers to create Solid apps
-| Jeff Zucker|------------- |
+| More robust developer tools|Add recursiveCopy & recursiveDelete to rdflib; help make query-ldflex available outside the browser; support in-browser pod storage via localStorage and Cache | Jeff Zucker | https://jeff-zucker.github.io/
 | Solid Chat Challenge | Make a functioning chat app for the Solid community to use | Jose Emilio Labra | https://gitter.im/solid/chat-app |
 
 Ideas for Roadmap: 
