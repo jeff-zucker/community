@@ -9,9 +9,8 @@ This is a roadmap of development and specification activities arround the Solid 
 | [Solid Project: Bugfixes on Node Solid Server](https://github.com/orgs/solid/projects/2) | Bugs annoy everybody and scare away people that give solid a try | Jackson Morgan| https://github.com/solid/node-solid-server/issues |
 | [npm modules for Solid Servers](https://github.com/orgs/inrupt/projects/1)| Support development of other node-based Solid servers | Michiel de Jong | https://github.com/orgs/inrupt/projects/1 |
 | Developing Solid apps | Have examples to show as well as  useful apps that attract end-users| https://gitter.im/solid/app-development / Maintainer of the specific app| https://github.com/solid/solid-apps |
-| Developing Solid libraries
+| Developing Solid libraries | Create recursive copy/delete and other utilities; add ability to use in-browser localStorage as a mini pod | [Jeff Zucker](https://github.com/jeff-zucker) | ----------- |
 | Make it easier for  developers to create Solid apps
-| Jeff Zucker|------------- |
 | Solid Chat Challenge | Make a functioning chat app for the Solid community to use | Jose Emilio Labra | https://gitter.im/solid/chat-app |
 | [Open Network](https://open-network.dev/) | Improve usablility & broader community with multiple Solid implementations. Aim is to improve accessibility for general consumer. | [Fabian Cook](https://open-network.dev/#contact) | [Open Network Development webite](https://open-network.dev/) |
 
